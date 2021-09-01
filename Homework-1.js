@@ -1,5 +1,4 @@
 
-
 // 1.
 let Celsius = 15;
 let Farenheit = (9 / 5) * Celsius + 32;
