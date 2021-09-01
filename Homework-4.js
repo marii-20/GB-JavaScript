@@ -13,7 +13,7 @@ function num_to_obj(n) {
     }
     
 }
-    
+
 console.log(num_to_obj(198)) 
 
 
